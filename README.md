@@ -13,7 +13,7 @@ I enjoy working on projects that solve real-world problems, enhance security, an
   - **Backend web development** using **Django**
   - **Bot-building** for social media (Discord, Telegram, Twitter, etc.)
   - Integrating **machine learning** and **security features** in projects
-- 🌍 Based in **Tabuk, Saudi Arabia**
+- 🌍 Based in **Tabuk, Saudi Arabia**, **Mansoura, Egypt**
 - 🏆 Achievements: Created various security-focused AI applications, including:
   - **Malware detection models**
   - **Phishing detection systems**
