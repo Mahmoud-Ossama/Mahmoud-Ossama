@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mahmoud Osama!
+# Hi there, I'm Mahmoud Osama! 🥷
 
 Welcome to my GitHub profile! I'm an aspiring AI and cybersecurity specialist pursuing a **Bachelor's in Computer Science and Artificial Intelligence** at Delta University for Science and Technology. With a passion for building secure, intelligent applications, I aim to contribute to innovative tech fields, merging my knowledge in **AI, backend development,** and **cybersecurity**.
 
