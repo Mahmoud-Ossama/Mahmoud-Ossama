@@ -64,10 +64,10 @@ I enjoy working on projects that solve real-world problems, enhance security, an
 
 ## 🤝 Connect with Me
 
-- **Fiverr Gig**: Offering backend development and bot-building services ([View my Fiverr]((https://www.fiverr.com/mahmoud_ossama?up_rollout=true)))
-- **LinkedIn**: [Mahmoud Osama]((https://www.linkedin.com/in/engineer-mahmoud-osama/))
+- **Fiverr Gig**: Offering backend development and bot-building services ([View my Fiverr](https://www.fiverr.com/mahmoud_ossama?up_rollout=true))
+- **LinkedIn**: [Mahmoud Osama](https://www.linkedin.com/in/engineer-mahmoud-osama/)
 - **GitHub**: [Mahmoud-Ossama](https://github.com/Mahmoud-Ossama)
-- **Upwork**: [Mahmoud Ali]((https://www.upwork.com/freelancers/~018076ca8afc12ee2a))
+- **Upwork**: [Mahmoud Ali](https://www.upwork.com/freelancers/~018076ca8afc12ee2a)
 
 Feel free to reach out if you’d like to collaborate on a project or discuss AI-driven solutions for cybersecurity and beyond!  
 Let's make technology more secure, one line of code at a time. 🚀
