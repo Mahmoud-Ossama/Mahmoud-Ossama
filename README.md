@@ -1,4 +1,4 @@
- Mahmoud Osama👾
+# Mahmoud Osama👾
 
 Hello all, I am a prospective AI and cybersecurity expert pursuing a **Bachelor of Computer Science and Artificial Intelligence** at Delta University for Science and Technology. An interest in creating secure, intelligent applications brings me to create value for revolutionary technology industries by integrating my skills in **AI, backend development,** and **cybersecurity**.
 
