@@ -1,8 +1,8 @@
-# Hi there, I'm Mahmoud Osama👾
+ Mahmoud Osama👾
 
-Welcome to my GitHub profile! I'm an aspiring AI and cybersecurity specialist pursuing a **Bachelor's in Computer Science and Artificial Intelligence** at Delta University for Science and Technology. With a passion for building secure, intelligent applications, I aim to contribute to innovative tech fields, merging my knowledge in **AI, backend development,** and **cybersecurity**.
+Hello all, I am a prospective AI and cybersecurity expert pursuing a **Bachelor of Computer Science and Artificial Intelligence** at Delta University for Science and Technology. An interest in creating secure, intelligent applications brings me to create value for revolutionary technology industries by integrating my skills in **AI, backend development,** and **cybersecurity**.
 
-I enjoy working on projects that solve real-world problems, enhance security, and showcase the potential of AI-driven solutions. My current focus is on creating applications that leverage machine learning and AI for **vulnerability detection, phishing prevention,** and **automated security assessments**.
+I prefer projects that solve real issues, enhance security, and optimize AI solutions. At this time, my focus is on creating applications that use machine learning and AI for vulnerability detection, anti-phishing security, and automated security audits.
 
 ---
 
@@ -30,7 +30,7 @@ I enjoy working on projects that solve real-world problems, enhance security, an
 - Django, Django REST Framework, OpenCV, PyTorch
 
 **Database & DevOps:**  
-- Git, Docker, CI/CD tools, UNIX/Linux
+- Git, Docker, CI/CD tools, Linux
 
 **Key Areas of Expertise:**  
 - AI & Machine Learning
@@ -52,13 +52,6 @@ I enjoy working on projects that solve real-world problems, enhance security, an
 ### 🐍 URL Phishing Detection System
 - Leading a team project on a **URL phishing detection** system to safeguard against phishing attacks.  
 - Focusing on an accessible web application with visual risk indicators.
-
----
-
-## 📊 Featured Project Repositories
-
-- [Smart-Army-Vehicle](https://github.com/Mahmoud-Ossama/Smart-Army-Vehicle)  
-- *And I will put more here!*
 
 ---
 
