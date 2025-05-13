@@ -1,66 +1,104 @@
-# Mahmoud Osama👾
+# <div align="center">Mahmoud Osama</div>
 
-Hello all, I am a prospective AI and cybersecurity expert pursuing a **Bachelor of Computer Science and Artificial Intelligence** at Delta University for Science and Technology. An interest in creating secure, intelligent applications brings me to create value for revolutionary technology industries by integrating my skills in **AI, backend development,** and **cybersecurity**.
+<div align="center">
+  
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-ossama&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/engineer-mahmoud-osama/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/mahmoud_ossama?up_rollout=true)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-14a800)](https://www.upwork.com/freelancers/~018076ca8afc12ee2a)
 
-I prefer projects that solve real issues, enhance security, and optimize AI solutions. At this time, my focus is on creating applications that use machine learning and AI for vulnerability detection, anti-phishing security, and automated security audits.
+</div>
 
----
+<div align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" alt="AI"/>
+</div>
 
-## 🔍 About Me
+## About Me
 
-- 💻 Currently learning: **C++**, **system design for backend development**, and exploring **big data** solutions.
-- 🚀 Freelance developer on Fiverr and Upwork, specializing in:
-  - **Backend web development** using **Django**
-  - **Bot-building** for social media (Discord, Telegram, Twitter, etc.)
-  - Integrating **machine learning** and **security features** in projects
-- 🌍 Based in **Tabuk, Saudi Arabia**, **Mansoura, Egypt**
-- 🏆 Achievements: Created various security-focused AI applications, including:
-  - **Malware detection models**
-  - **Phishing detection systems**
-  - **Cybersecurity threat analysis applications**
+> AI Agent & Cybersecurity specialist pursuing Computer Science & AI at Delta University
 
----
+I'm passionate about creating autonomous AI systems and secure, intelligent applications that solve real-world challenges. My expertise is centered around:
 
-## 🔧 Technologies & Tools
+- **AI Agents & Multi-agent Communication Protocols (MCP)**
+- **Autonomous AI Systems**
+- **AI-Driven Cybersecurity**
 
-**Programming Languages:**  
-- Python, Java, C#, C++, HTML, CSS, SQL
+Currently based in **Tabuk, Saudi Arabia** and **Mansoura, Egypt**.
 
-**Frameworks & Libraries:**  
-- Django, Django REST Framework, OpenCV, PyTorch
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Code"/>
+</div>
 
-**Database & DevOps:**  
-- Git, Docker, CI/CD tools, Linux
+## Tech Stack
 
-**Key Areas of Expertise:**  
-- AI & Machine Learning
-- Cybersecurity and Threat Detection
-- Backend Development with a focus on Security
+```
+Languages: Python | C++ | Java
+Frameworks: PyTorch | LangChain | Django | Django REST
+AI Tools:   Vector Databases | LLM Integration | Agent Frameworks
+```
 
----
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/goal--v1.png" alt="Focus"/>
+</div>
 
-## 🚀 Current Projects
+## Current Focus
 
-### 🔒 Vulnerability Detection and Threat Analysis
-- Developing a **machine learning model** that identifies code vulnerabilities and potential cyberattack threats.  
-- Building a **web application** to visualize security assessments and highlight risk levels.
+- Developing **AI agents** and exploring **Multi-agent Communication Protocols (MCP)**
+- Researching **autonomous AI systems** and their practical applications
+- Building **AI-enhanced security solutions**
+- Advanced **LLM integration** for specialized applications
 
-### 🦠 Malware Detection
-- Constructing a **malware detection app** to classify and identify harmful code using an AI model.  
-- Currently seeking datasets to enhance model training and improve detection accuracy.
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/project-management.png" alt="Projects"/>
+</div>
 
-### 🐍 URL Phishing Detection System
-- Leading a team project on a **URL phishing detection** system to safeguard against phishing attacks.  
-- Focusing on an accessible web application with visual risk indicators.
+## Featured Projects
 
----
+<details>
+<summary><b>AI Agent Orchestration Platform</b></summary>
+<br>
+Developing a system for managing multiple AI agents with custom Multi-agent Communication Protocols (MCP) to enable complex task completion through agent collaboration.
+</details>
 
-## 🤝 Connect with Me
+<details>
+<summary><b>AI-Powered Vulnerability Detection</b></summary>
+<br>
+Machine learning model that identifies code vulnerabilities and potential cyberattack threats with visual risk assessment.
+</details>
 
-- **Fiverr Gig**: Offering backend development and bot-building services ([View my Fiverr](https://www.fiverr.com/mahmoud_ossama?up_rollout=true))
-- **LinkedIn**: [Mahmoud Osama](https://www.linkedin.com/in/engineer-mahmoud-osama/)
-- **GitHub**: [Mahmoud-Ossama](https://github.com/Mahmoud-Ossama)
-- **Upwork**: [Mahmoud Ali](https://www.upwork.com/freelancers/~018076ca8afc12ee2a)
+<details>
+<summary><b>Malware Detection System</b></summary>
+<br>
+AI application that classifies and identifies harmful code patterns using machine learning algorithms.
+</details>
 
-Feel free to reach out if you’d like to collaborate on a project or discuss AI-driven solutions for cybersecurity and beyond!  
-Let's make technology more secure, one line of code at a time. 🚀
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/briefcase.png" alt="Services"/>
+</div>
+
+## Professional Services
+
+I offer freelance services on [Fiverr](https://www.fiverr.com/mahmoud_ossama?up_rollout=true) and [Upwork](https://www.upwork.com/freelancers/~018076ca8afc12ee2a) including:
+
+- **AI Agent Development** and multi-agent systems
+- **LLM Integration** for specialized applications
+- **AI-Enhanced Security Solutions**
+- **Backend Development** with AI capabilities
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/connect.png" alt="Connect"/>
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mahmoud--Ossama-181717?style=for-the-badge&logo=github)](https://github.com/Mahmoud-Ossama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Osama-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/engineer-mahmoud-osama/)
+
+</div>
+
+<div align="center">
+<i>Advancing AI agent technology for a more intelligent future.</i>
+</div>
