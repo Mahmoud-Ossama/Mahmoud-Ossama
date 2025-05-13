@@ -18,7 +18,7 @@
 
 > AI Agent & Cybersecurity specialist pursuing Computer Science & AI at Delta University
 
-I'm passionate about creating autonomous AI systems and secure, intelligent applications that solve real-world challenges. My expertise is centered around:
+Building autonomous AI systems and secure, intelligent applications that solve real-world challenges. My expertise is centered around:
 
 - **AI Agents & Multi-agent Communication Protocols (MCP)**
 - **Autonomous AI Systems**
@@ -33,7 +33,7 @@ Currently based in **Tabuk, Saudi Arabia** and **Mansoura, Egypt**.
 ## Tech Stack
 
 ```
-Languages: Python | C++ | Java
+Languages: Python | C++ | Java | JS
 Frameworks: PyTorch | LangChain | Django | Django REST
 AI Tools:   Vector Databases | LLM Integration | Agent Frameworks
 ```
