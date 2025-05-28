@@ -5,8 +5,6 @@
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Expert-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-ossama&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/engineer-mahmoud-osama/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1dbf73)](https://www.fiverr.com/mahmoud_ossama?up_rollout=true)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-14a800)](https://www.upwork.com/freelancers/~018076ca8afc12ee2a)
 
 </div>
 
