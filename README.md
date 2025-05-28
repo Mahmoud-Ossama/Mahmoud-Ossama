@@ -16,7 +16,7 @@
 
 ## About Me
 
-> AI Agent & Cybersecurity specialist pursuing Computer Science & AI at Delta University
+> AI Agent specialist pursuing Computer Science & AI at Delta University
 
 Building autonomous AI systems and secure, intelligent applications that solve real-world challenges. My expertise is centered around:
 
