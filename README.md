@@ -84,11 +84,8 @@ I offer freelance services on [Fiverr](https://www.fiverr.com/mahmoud_ossama?up_
 - **AI-Enhanced Security Solutions**
 - **Backend Development** with AI capabilities
 
-<div align="center">
-[  <img src="https://img.icons8.com/?size=100&id=mAyvyvtM1xoZ&format=png&color=000000"/>]
 ## Connect With Me
 
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mahmoud--Ossama-181717?style=for-the-badge&logo=github)](https://github.com/Mahmoud-Ossama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Osama-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-osama-ai/)
