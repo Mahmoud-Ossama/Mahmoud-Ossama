@@ -73,14 +73,14 @@ Backend-focused AI engineer building production systems with **Python, FastAPI, 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Ossama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Ossama&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Ossama&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Ossama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud-Ossama&theme=tokyonight" width="48%" />
 </div>
 
 ---
